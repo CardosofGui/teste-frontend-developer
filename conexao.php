@@ -1,10 +1,12 @@
 <?php 
 
     # Constantes de acesso ao Banco de Dados
-    define('USER', 'root');
-    define('PASSWORD', '');
-    define('HOST','localhost');
-    define('DB', 'bdEllosDesign');
+    $cleardb_url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+
+    define('USER', $cleardb_url["user"]);
+    define('PASSWORD', $cleardb_url["pass"]);
+    define('HOST',$cleardb_url["host"]);
+    define('DB', substr($cleardb_url["host"], 1));
         
     # Tenta se conectar com o Banco de Dados
     # Status 200 = Conexão bem sucedida
