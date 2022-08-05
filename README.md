@@ -56,24 +56,3 @@ Este é um teste prático para a avaliação dos candidatos participantes do pro
     $ git clone https://github.com/CardosofGui/teste-frontend-developer.git
 ```
 ☐ Agora basta acessar seu navegador e seguir para o caminho "http://localhost/teste-frontend-developer/" que já poderá acessar o site!
-
-## O que será avaliado nesse teste? <a name="test"> 
-
-- Criatividade
-- Organização do código
-- Performance do código
-- Boas práticas de desenvolvimento
-- Documentação do código
-- Adaptação mobile (layout responsivo)
-- Documentação do projeto (Com instruções para executar)
-
-## Etapas para realização do teste <a name="etapas"> 
-
-- Faça um [fork](https://github.com/Ellos-Design/teste-frontend-developer/fork) desse projeto em sua conta do GitHub
-- Realize o desafio proposto
-- Faça um push para seu repositório com o desafio implementado
-- Envie um email para (vagas@ellosdesign.com.br) com a URL do seu projeto avisando que você concluiu o teste
-
-### Template da página a ser desenvolvida!
-
-![Template da página a ser desenvolvida](https://github.com/Ellos-Design/teste-frontend-developer/blob/master/wireframe.png?raw=true)
