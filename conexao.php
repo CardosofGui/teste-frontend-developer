@@ -6,7 +6,7 @@
     define('USER', $cleardb_url["user"]);
     define('PASSWORD', $cleardb_url["pass"]);
     define('HOST',$cleardb_url["host"]);
-    define('DB', substr($cleardb_url["host"], 1));
+    define('DB', substr($cleardb_url["path"], 1));
         
     # Tenta se conectar com o Banco de Dados
     # Status 200 = Conexão bem sucedida
