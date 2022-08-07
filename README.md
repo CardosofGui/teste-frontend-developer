@@ -34,7 +34,7 @@ Este é um teste prático para a avaliação dos candidatos participantes do pro
 ---
 
 ## O que será necessario para utilizar este __[site](https://teste-ellos-design.herokuapp.com/)__? 📝 <a name="necessary">
-☐ Para utilizar em LocalHost será necessário um software de servidor como XAMPP ou WampServer para execução do serviço do Apache e MySQL em seu dispositivo; <br>
+☐ Para utilizar em LocalHost será necessário um software de servidor como __[XAMPP](https://www.apachefriends.org/pt_br/download.html)__ para execução do serviço do Apache e MySQL em seu dispositivo; <br>
 ☐ Se já tiver instalado um servidor deverá criar um banco de dados conforme o código SQL abaixo:<br>
 ```
     CREATE DATABASE bd_ellos_design;
