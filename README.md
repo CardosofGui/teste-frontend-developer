@@ -13,8 +13,6 @@ A **Ellos Design** é uma agência de marketing e criação de sites localizada 
 * __[Descrição](#description)__
 * __[Tecnologias](#technologies)__
 * __[O que será necessario para utilizar este Site?](#necessary)__
-* __[O que será avaliado nesse teste?](#test)__
-* __[Etapas para realização do teste?](#etapas)__
 
 ---
 
